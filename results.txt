@@ -1,0 +1,4 @@
+Evolos Voting Results
+1) Add a startup script: 0 votes
+2) Add ASCII art + colors: 0 votes
+3) Improve file management: 0 votes
